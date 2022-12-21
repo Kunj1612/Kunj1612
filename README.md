@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Kunj1612
 - 👀 I’m interested in Reading and Programming
-- 🌱 I’m currently learning C+ Java and Dsa with little bit of devops
+- 🌱 I’m currently learning C++ Java and Dsa with little bit of Data Science
+-
 - 📫 you can reach me on kunjpandya1612@gmail.com
 
 <!---
